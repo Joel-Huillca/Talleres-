@@ -1,0 +1,4 @@
+BNK-01,Banco Italian Don Oso,banco,24,20,250000
+GSTR-12,Royal Brunch,gastronomia,7,2,4
+FAB-16,Fabrica de ladrillos Louis Town,fabrica,12000,3600,5
+RET-03,REAPLAY sucursal centro,retail,1350,6750000,90000
